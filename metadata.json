@@ -1,0 +1,6 @@
+{
+  "name": "TinyBERT Studio & Distillation Explorer",
+  "description": "Interactive dashboard, distillation pipeline simulator, GLUE benchmark explorer, and repository inspector for TinyBERT (Transformer Distillation).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
